@@ -1,5 +1,3 @@
-// ESP8266 WiFi Captive Portal
-// By 125K (github.com/125K)
 
 // Libraries
 #include <ESP8266WiFi.h>
